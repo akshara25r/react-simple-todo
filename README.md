@@ -22,7 +22,15 @@ It allows users to:
 ---
 
 ## 📸 Preview
-![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/e932d54a-d3a6-4ec0-892a-d7ee744d06ee)
+![image](https://github.com/user-attachments/assets/6b8901cf-5213-48be-b993-5e277101be17)
+![image](https://github.com/user-attachments/assets/49f7103a-47d2-4981-83cc-f6cfa41ed27e)
+![image](https://github.com/user-attachments/assets/486eb2ad-5097-472d-b0ca-4a0dbffe1507)
+![image](https://github.com/user-attachments/assets/2195f880-f89a-4079-846d-cbd678940747)
+![image](https://github.com/user-attachments/assets/e5a69796-6683-4b7c-9200-7164ee40ee01)
+
+
 
 ---
 
